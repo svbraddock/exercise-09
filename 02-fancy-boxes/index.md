@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link href="css/stlye.css" rel="stylesheet" />
     <title>Fancy Boxes</title>
   </head>
 
