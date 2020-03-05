@@ -24,6 +24,7 @@ div {
   border-bottom: 0px;
   border-color: rgba(28,104,167,1);
   padding: 0px, 0px, 20px, 0px;
+  margin: 20px;
 }
 
 #box03 {
@@ -31,6 +32,7 @@ div {
   border: 2px, 0px, 0px, 2px;
   border-color: rgba(28,104,167,1);
   padding: 20px, 0px, 20px, 0px;
+  margin: 20px;
 }
 
 #box04 {
@@ -38,5 +40,6 @@ div {
   border-color: rgba(28,104,167,1);
   border: 0px, 0px,2px, 2px;
   padding: 0px, 20px, 0px, 20px;
+  margin: 20px
 }
   
