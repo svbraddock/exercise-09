@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link href="css/style.css" rel="stylesheet" />
     <title>Box Model</title>
+    <link href="css/style.css" rel="stylesheet" />
   </head>
 
   <body>
